@@ -1,0 +1,37 @@
+*
+body{
+
+background-image: url(images/003.jpg);
+
+}
+
+
+.service{
+padding: 0px 400px;
+margin: 0px;
+align-items: center;
+justify-content:space-between;
+font-size: large;
+display: flex;
+}
+
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: xx-large;
+    font-style:inherit;
+    color: rgb(161, 59, 11);
+    
+}
+
+dt{
+    text-align: center;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
